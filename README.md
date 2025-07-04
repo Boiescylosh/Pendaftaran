@@ -1,9 +1,11 @@
 SCRIPT FOR TERMUX
 
-git clone https://github.com/Boiescylosh/Pendaftaran.git
+$ git clone https://github.com/Boiescylosh/Pendaftaran.git
 
-cd Pendaftaran
+$ cd Pendaftaran
 
-ls
+$ ls
 
-python pendaftaran.py
+$ pendaftaran.py
+
+Copy teksnya sesudah ikon $ lalu paste tiap teksnya di TERMUX
