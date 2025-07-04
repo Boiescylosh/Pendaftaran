@@ -1,4 +1,4 @@
-SCRIPT FOR TERMUX
+SCRIPT 
 
 $ git clone https://github.com/Boiescylosh/Pendaftaran.git
 
