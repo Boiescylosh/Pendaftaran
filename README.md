@@ -6,6 +6,6 @@ $ cd Pendaftaran
 
 $ ls
 
-$ Pendaftaran.py
+$ python Pendaftaran.py
 
 Copy teksnya sesudah ikon $ lalu paste tiap teksnya di TERMUX
